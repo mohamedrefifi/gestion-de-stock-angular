@@ -1,0 +1,28 @@
+.container{
+    background-color: #DBF9E7;
+    width: 100vw;
+    height: 45px;
+    padding-left: 0px;
+    display: flex;
+    padding-top: 0px;
+}
+.custom-logo{
+    padding-top: 8px;
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.custom-menu{
+    margin-top: 10px;
+    padding-left: 75px;
+    color: rgb(179, 177, 177);
+}
+.custom-search{
+    margin-top: 5px;
+    padding-left: 200px;
+}
+.custom-logout{
+    padding-right: 10px;
+    margin-left: auto;
+    float: right;
+}
